@@ -1,0 +1,2 @@
+サーモカメラシステムによる太陽電池のヒートスポット自動検出方法の検討
+Examination of heat spots automatic detection method of solar panels using a thermography
